@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 About
+## About
 
 I’m a Frontend Engineer with 6+ years of experience designing and building production-grade web applications.
 
@@ -14,7 +14,7 @@ I enjoy turning messy product requirements into clean frontend structures that s
 
 ---
 
-## ⚙️ What I Do
+## What I Do
 
 I work on frontend systems that go beyond pages:
 
@@ -27,7 +27,7 @@ I work on frontend systems that go beyond pages:
 
 ---
 
-## 🧩 What I’ve Built
+## What I’ve Built
 
 Across different systems and products, I’ve worked on:
 
@@ -40,7 +40,7 @@ Across different systems and products, I’ve worked on:
 
 ---
 
-## 🧠 Engineering Philosophy
+## Engineering Philosophy
 
 - Separation of concerns is more important than speed of delivery
 - UI should be composed, not duplicated
@@ -50,7 +50,7 @@ Across different systems and products, I’ve worked on:
 
 ---
 
-## 🧱 Focus Areas
+## Focus Areas
 
 - Frontend Architecture & System Design
 - SaaS Dashboard Platforms
@@ -61,7 +61,7 @@ Across different systems and products, I’ve worked on:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 React · Next.js · TypeScript · JavaScript  
 TanStack Query · Zustand  
@@ -72,7 +72,7 @@ Monorepo Architecture
 
 ---
 
-## 🌍 Languages
+## Languages
 
 - English — Fluent
 - Persian — Native
@@ -80,7 +80,7 @@ Monorepo Architecture
 
 ---
 
-## 📌 Currently Focused On
+## Currently Focused On
 
 - Frontend platform architecture design
 - Plugin-based UI systems
@@ -89,7 +89,7 @@ Monorepo Architecture
 
 ---
 
-## 📫 Contact
+## Contact
 
 Open to frontend / architecture-focused engineering roles  
 where ownership, scalability, and system thinking matter.
